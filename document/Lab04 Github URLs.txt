@@ -1,0 +1,13 @@
+Lab Assignment 4: Event Handling & State Lifting
+
+In the ZIP file, please find:
+
+1. The IncredibleTodoListApp Project (without "node_modules" folder)
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab04
+
+
+2. Test Result
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab04/tree/main/document/Lab04_TestResult_CathySun.png
+
+
+
